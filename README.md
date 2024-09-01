@@ -1,5 +1,5 @@
 
-
+![Finance Dashboard Screenshot](image.png)
 # Finance Dashboard React Component
 
 ## Overview
